@@ -13,7 +13,7 @@ class MoviesViewController: UIViewController, UITableViewDataSource, UITableView
     
     var movies = [[String: Any]]()
     
-    var movie: [String: Any]!
+
 
 
     @IBOutlet weak var tableView: UITableView!
